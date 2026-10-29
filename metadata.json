@@ -1,0 +1,6 @@
+{
+  "name": "Tommy Bahama Island Shopping",
+  "description": "A premium Tommy Bahama-inspired mobile shopping app celebrating relaxed island living, coastal luxury resortwear, and effortless shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
